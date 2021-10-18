@@ -1,0 +1,7 @@
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\Anarchie1.0.exe
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\Anarchie1.0.dll
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\Anarchie1.0.deps.json
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\Anarchie1.0.runtimeconfig.json
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\Anarchie1.0.pdb
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\CircularProgressBar.dll
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\publish\WinFormAnimation.dll

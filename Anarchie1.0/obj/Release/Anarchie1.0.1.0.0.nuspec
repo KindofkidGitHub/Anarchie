@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Anarchie1.0</id>
+    <version>1.0.0</version>
+    <authors>Anarchie1.0</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="CircularProgressBar" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\Anarchie1.0.runtimeconfig.json" target="lib\net5.0-windows7.0\Anarchie1.0.runtimeconfig.json" />
+    <file src="C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\bin\Release\net5.0-windows\Anarchie1.0.dll" target="lib\net5.0-windows7.0\Anarchie1.0.dll" />
+  </files>
+</package>

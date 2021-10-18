@@ -1,0 +1,17 @@
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.csproj.AssemblyReference.cache
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.Form1.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.frmApps.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.frmGames.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.frmHome.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.frmSetttings.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.frmTools.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1._0.Properties.Resources.resources
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.csproj.GenerateResource.cache
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.AssemblyInfoInputs.cache
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.AssemblyInfo.cs
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.csproj.Fody.CopyLocal.cache
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.dll
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\ref\Anarchie1.0.dll
+C:\Users\Tawil\source\repos\Anarchie1.0\Anarchie1.0\obj\Debug\net5.0-windows\win-x64\Anarchie1.0.pdb
